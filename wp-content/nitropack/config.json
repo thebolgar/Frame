@@ -1,0 +1,19 @@
+{
+    "www.f.org.ua": {
+        "siteId": "vabOKgGJsutElAEBQorzapHhNwfWzLZP",
+        "siteSecret": "blF0kyaibVYPYP3ZLlTCHnZiwIGlSzOpA04WsSXFYRiQRnogGK1DsjW9mwN8hKLN",
+        "blogId": 1,
+        "compression": false,
+        "webhookToken": "683f05c79fc98b719dc7e0dcda8e5ff4",
+        "home_url": "https:\/\/www.f.org.ua",
+        "admin_url": "https:\/\/www.f.org.ua\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.5.7"
+    }
+}

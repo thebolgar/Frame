@@ -1,0 +1,160 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Norebro Portfolio 1.0.0\n"
+"POT-Creation-Date: 2017-07-31 17:37+0300\n"
+"PO-Revision-Date: 2017-03-13 14:26+0200\n"
+"Last-Translator: \n"
+"Language-Team: Colabrio <support@colabr.io>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en\n"
+"X-Poedit-KeywordsList: __;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: norebro-portfolio.php:39 norebro-portfolio.php:40 norebro-portfolio.php:41
+#: norebro-portfolio.php:66 norebro-portfolio.php:96 norebro-portfolio.php:98
+#: norebro-portfolio.php:123
+msgid "Portfolio"
+msgstr ""
+
+#: norebro-portfolio.php:42 norebro-portfolio.php:99
+msgid "All Projects"
+msgstr ""
+
+#: norebro-portfolio.php:43 norebro-portfolio.php:100
+msgid "Add New"
+msgstr ""
+
+#: norebro-portfolio.php:44 norebro-portfolio.php:101
+msgid "Add New Portfolio Project"
+msgstr ""
+
+#: norebro-portfolio.php:45 norebro-portfolio.php:102
+msgid "Edit Project"
+msgstr ""
+
+#: norebro-portfolio.php:46 norebro-portfolio.php:103
+msgid "New Portfolio Project"
+msgstr ""
+
+#: norebro-portfolio.php:47 norebro-portfolio.php:104
+msgid "View Project"
+msgstr ""
+
+#: norebro-portfolio.php:48 norebro-portfolio.php:105
+msgid "Search Projects"
+msgstr ""
+
+#: norebro-portfolio.php:49 norebro-portfolio.php:106
+msgid "No projects found"
+msgstr ""
+
+#: norebro-portfolio.php:50 norebro-portfolio.php:107
+msgid "No projects found in Trash"
+msgstr ""
+
+#: norebro-portfolio.php:51 norebro-portfolio.php:62 norebro-portfolio.php:108
+#: norebro-portfolio.php:119
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: norebro-portfolio.php:52 norebro-portfolio.php:109
+msgid "Featured image for this project"
+msgstr ""
+
+#: norebro-portfolio.php:53 norebro-portfolio.php:110
+msgid "Set featured image for this project"
+msgstr ""
+
+#: norebro-portfolio.php:54 norebro-portfolio.php:111
+msgid "Remove featured image for this project"
+msgstr ""
+
+#: norebro-portfolio.php:55 norebro-portfolio.php:112
+msgid "Use featured image for this project"
+msgstr ""
+
+#: norebro-portfolio.php:56 norebro-portfolio.php:113
+msgid "Portfolio projects archive"
+msgstr ""
+
+#: norebro-portfolio.php:57 norebro-portfolio.php:114
+msgid "Insert into project"
+msgstr ""
+
+#: norebro-portfolio.php:58 norebro-portfolio.php:115
+msgid "Upload to this project"
+msgstr ""
+
+#: norebro-portfolio.php:59 norebro-portfolio.php:116
+msgid "Filter projects"
+msgstr ""
+
+#: norebro-portfolio.php:60 norebro-portfolio.php:117
+msgid "Portfolio projects list navigation"
+msgstr ""
+
+#: norebro-portfolio.php:61 norebro-portfolio.php:118
+msgid "Portfolio projects list"
+msgstr ""
+
+#: norebro-portfolio.php:68 norebro-portfolio.php:125
+msgid "Portfolio post type for Norebro theme."
+msgstr ""
+
+#: norebro-portfolio.php:97
+msgid "Project"
+msgstr ""
+
+#: norebro-portfolio.php:151 norebro-portfolio.php:155
+#: norebro-portfolio.php:166
+msgid "Categories"
+msgstr ""
+
+#: norebro-portfolio.php:152
+msgid "Category"
+msgstr ""
+
+#: norebro-portfolio.php:153
+msgid "Search Categories"
+msgstr ""
+
+#: norebro-portfolio.php:154
+msgid "Popular Categories"
+msgstr ""
+
+#: norebro-portfolio.php:158
+msgid "Edit Category"
+msgstr ""
+
+#: norebro-portfolio.php:159
+msgid "Update Category"
+msgstr ""
+
+#: norebro-portfolio.php:160
+msgid "Add New Category"
+msgstr ""
+
+#: norebro-portfolio.php:161
+msgid "New Portfolio Category"
+msgstr ""
+
+#: norebro-portfolio.php:162
+msgid "Separate categories with commas"
+msgstr ""
+
+#: norebro-portfolio.php:163
+msgid "Add or remove categories"
+msgstr ""
+
+#: norebro-portfolio.php:164
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: norebro-portfolio.php:165
+msgid "No categories found."
+msgstr ""
